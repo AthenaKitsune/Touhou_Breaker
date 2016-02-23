@@ -155,7 +155,7 @@ bool DialogueScreen::init()
 			}
 			else if (current == 22) {
 				current++;
-				_dialogue->setTexture("dia/dia_k9.png");
+				_dialogue->setTexture("dia/dia_s11.png");
 			}
 			else if (current == 23)
 			{
